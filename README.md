@@ -18,7 +18,7 @@
 - [x] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
-<img src='http://g.recordit.co/155dCihvNH.gif' title='Assignment 1' width='' alt='Assignment 1' />
+<img src='http://g.recordit.co/BGGfHqivwJ.gif' title='Assignment 1' width='' alt='Assignment 1' />
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
